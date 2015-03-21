@@ -1,0 +1,387 @@
+# #### SITE RELATED TRANSLATIONS ######
+msgid "FFXIV Gardening"
+msgstr "FFXIV ガーデニング"
+
+msgid "Language"
+msgstr "言語"
+
+msgid "Site Related"
+msgstr "関連サイト"
+
+msgid "FFXIV Related"
+msgstr "FFXIV 関連"
+
+msgid "Minion"
+msgstr "の手先"
+
+msgid "Hunt Billmaster"
+msgstr "モブハント担当官"
+
+msgid "English"
+msgstr "英語"
+
+msgid "French"
+msgstr "フランス語"
+
+msgid "German"
+msgstr "ドイツ語"
+
+msgid "Japanese"
+msgstr "日本語"
+
+msgid "SEEDS"
+msgstr "種子"
+
+msgid "RESOURCES"
+msgstr "リソース"
+
+msgid "LINKS"
+msgstr "リンク"
+
+msgid "GARDEN PLANNER"
+msgstr "ガーデン プランナー"
+
+msgid "SUBMIT CROSS"
+msgstr "クロスを提出します。"
+
+msgid "View All"
+msgstr "全ての履歴をを見る"
+
+msgid "Fruit"
+msgstr "フルーツ"
+
+msgid "Vegetable"
+msgstr "野菜"
+
+msgid "Herb & Nut"
+msgstr "ハーブ & ナット"
+
+msgid "Chocobo Food"
+msgstr "チョコボ食べ物"
+
+msgid "Gardening Minions"
+msgstr "園芸の手先"
+
+msgid "Guide to Gardening"
+msgstr "園芸へのガイド"
+
+msgid "Site Documentation"
+msgstr "サイトのドキュメント"
+
+msgid "Topsoil Gathering"
+msgstr "表土の収集"
+
+msgid "Recently Added Crosses"
+msgstr "最近追加された十字"
+
+msgid "Update Archive"
+msgstr "アーカイブを更新します。"
+
+msgid "Contact"
+msgstr "問い合わせ先"
+
+msgid "Intercross Spreadsheet"
+msgstr "スプレッドシートのインター クロスします。"
+
+msgid "Facebook Page"
+msgstr "Facebook のページ"
+
+msgid "Revenant FC"
+msgstr "亡霊 FC"
+
+msgid "XIVDB (Database)"
+msgstr "XIVDB (データベース)"
+
+msgid "Chocobo Color Calculator"
+msgstr "チョコボ色電卓"
+
+msgid "Jumbo Gardening Thread"
+msgstr "ジャンボ園芸スレッド"
+
+msgid "VIEW SEED LIST"
+msgstr "ビューのシードリスト"
+
+msgid "Back to Top"
+msgstr "トップに戻る"
+
+msgid "View Update Archive"
+msgstr "ビュー更新アーカイブ"
+
+msgid "Welcome to FFXIV Gardening"
+msgstr "FFXIV 園芸へようこそ"
+
+msgid "The FFXIV Gardening Database is a collection of everything related to gardening in Final Fantasy XIV: A Realm Reborn. It was created to organize and visualize the results obtained from crossbreeding."
+msgstr "FFXIV ガーデニング データベースはファイナルファンタジー XIV でガーデニング関連するすべてのコレクション: A 王国生まれ変わる。それは整理および視覚化の交配から得られた結果に作成されました。"
+
+msgid "Seed Name"
+msgstr "シード名"
+
+msgid "Seed Type"
+msgstr "種子の種類"
+
+msgid "iLvl"
+msgstr "iLvl"
+
+msgid "Grow Time"
+msgstr "デュレーション"
+
+msgid "Harvest Location"
+msgstr "収穫場所"
+
+msgid "Node Level"
+msgstr "ノード レベル"
+
+msgid "Crossbreed Only"
+msgstr "雑種のみ"
+
+msgid "Deluxe Fruit"
+msgstr "デラックス フルーツ"
+
+msgid "Deluxe Vegetable"
+msgstr "デラックス野菜"
+
+msgid "Deluxe Herb & Nut"
+msgstr "デラックス ハーブ & ナット"
+
+msgid "TWO-SEED CROSS CHECK"
+msgstr "2 種のクロス チェック"
+
+msgid "Select two seeds from the drop down menus below. You will be shown all possible confirmed crosses from the selected seeds."
+msgstr "ドロップ ダウン メニューの下から 2 種を選択します。確認したすべての可能な選択した種子から交差させることになります。"
+
+msgid "To the right of each cross is an option to show a table visualizing the optimal way to plant each seed to obtain the selected cross."
+msgstr "各十字の右へクロス選択を取得するそれぞれの種の植物に最適な方法を可視化するテーブルを表示するオプションです。"
+
+msgid "MULTIPLE-SEED CROSS CHECK"
+msgstr "複数種のクロス チェック"
+
+msgid "Select multiple seeds from the left column that you would like to find crosses for and move them to the right column. You will be shown all possible cross combinations from the selected seeds."
+msgstr "あなたの十字を見つけるし、右の列に移動したいと思います左側の列から複数の種を選択します。あなたが表示されますすべての可能な組み合わせ選択種子からクロス。"
+
+msgid "You can ctrl+click to select multiple seeds and use the arrows to move or you can double click to move individually."
+msgstr "できます ctrl キー + クリックして複数の種を選択し、矢印を使って移動するか、ダブルクリックしてできますを個別に移動します。"
+
+msgid "Plant in clockwise order alternating seeds"
+msgstr "植物の種子を交互に時計回りの順序で"
+
+msgid "Use Thanalan Soil for higher cross chance"
+msgstr "ザナラーン土壌クロスに高いチャンスを使用します。"
+
+msgid "Use Shroud Soil for higher yield quantity"
+msgstr "高い収穫の量のエアフロー カバーの土を使用します。"
+
+msgid "Use La Noscean soil for higher quality yield"
+msgstr "高品質の収率のラ ラノシア土を使用します。"
+
+msgid "Tend (water) once every Earth Day"
+msgstr "傾向にある （水） 1 回地球の毎日"
+
+msgid "Fertilize once every Earth Day hour"
+msgstr "地球の日 1 時間に一度肥やしなさい"
+
+msgid "Grade"
+msgstr "グレード"
+
+msgid "Type"
+msgstr "種類"
+
+msgid "Increases"
+msgstr "増加"
+
+msgid "Mining Location"
+msgstr "マイニングの場所"
+
+msgid "Details"
+msgstr "詳細"
+
+msgid "Quality"
+msgstr "品質"
+
+msgid "Yield"
+msgstr "収量"
+
+msgid "Cross Chance"
+msgstr "チャンスをクロスします。"
+
+msgid "Hidden / Rare Item"
+msgstr "隠された/珍しい項目"
+
+msgid "1-Star Unspoiled Node"
+msgstr "1-星損なわれていないノード"
+
+msgid "Slot"
+msgstr "スロット"
+
+msgid "La Noscean"
+msgstr "ラノシアンソイル"
+
+msgid "Shroud"
+msgstr "シュラウドソイル"
+
+msgid "Thanalan"
+msgstr "ザナラーンソイル"
+
+msgid "Lower La Noscea"
+msgstr "低地ラノシア"
+
+msgid "Middle La Noscea"
+msgstr "中央ラノシア"
+
+msgid "East Shroud"
+msgstr "黒衣森：東部森林"
+
+msgid "Eastern Thanalan"
+msgstr "東ザナラーン"
+
+msgid "Western Thanalan"
+msgstr "西ザナラーン"
+
+msgid "Eastern La Noscea"
+msgstr "東ラノシア"
+
+msgid "Western La Noscea"
+msgstr "西ラノシア"
+
+msgid "Upper La Noscea"
+msgstr "高地ラノシア"
+
+msgid "South Shroud"
+msgstr "黒衣森：南部森林"
+
+msgid "North Shroud"
+msgstr "黒衣森：北部森林"
+
+msgid "Central Shroud"
+msgstr "黒衣森：中央森林"
+
+msgid "Central Thanalan"
+msgstr "中央ザナラーン"
+
+msgid "Coerthas Central Highlands"
+msgstr "クルザス中央高地"
+
+msgid "Material Supplier (Housing Disctrict)"
+msgstr "素材屋"
+
+msgid "ALL SEEDS"
+msgstr "すべての種子"
+
+msgid "FRUIT SEEDS"
+msgstr "果実の種子"
+
+msgid "VEGETABLE SEEDS"
+msgstr "野菜の種子"
+
+msgid "HERB & NUT SEEDS"
+msgstr "ハーブ & ナッツ種子"
+
+msgid "CHOCOBO FOOD"
+msgstr "チョコボ料理"
+
+msgid "MINION SEEDS"
+msgstr "ミニオン種子"
+
+msgid "SEED DETAILS"
+msgstr "シードの詳細"
+
+msgid "CONFIRMED CROSSES"
+msgstr "確認された十字"
+
+msgid "USED IN OTHER CROSSES"
+msgstr "他の交差で使用されます。"
+
+msgid "GUIDE TO GARDENING"
+msgstr "園芸へのガイド"
+
+msgid "DOCUMENTATION"
+msgstr "説明書"
+
+msgid "TOPSOIL GATHERING"
+msgstr "表土の収集"
+
+msgid "RECENTLY ADDED CROSSES"
+msgstr "最近追加された十字"
+
+msgid "UPDATE ARCHIVE"
+msgstr "アーカイブを更新します。"
+
+msgid "CONTACT INFO"
+msgstr "コンタクト"
+
+msgid "SEARCH RESULTS"
+msgstr "検索結果"
+
+msgid "Search Results"
+msgstr "検索結果"
+
+msgid "Item Level"
+msgstr "アイテム レベル"
+
+msgid "Days"
+msgstr "日数"
+
+msgid "Harvested Plant"
+msgstr "収穫された植物"
+
+msgid "Adjacent Plant"
+msgstr "隣接する工場"
+
+msgid "Alternate Cross"
+msgstr "代替クロス"
+
+msgid "Efficiency"
+msgstr "性能"
+
+msgid "BEST PRACTICES"
+msgstr "ベストプラクティス"
+
+msgid "NEW & UPDATED CROSSES"
+msgstr "新しい & 更新された十字"
+
+msgid "MOST RECENT"
+msgstr "最も最近"
+
+msgid "SUBMIT"
+msgstr "規約に同意して送信"
+
+msgid "ADD"
+msgstr "加える"
+
+msgid "REMOVE"
+msgstr "削除"
+
+msgid "Seed Details"
+msgstr "シードの詳細"
+
+msgid "Eorzea Time"
+msgstr "エオルゼア時間"
+
+msgid "Select First Seed"
+msgstr "最初の種子を選択します。"
+
+msgid "Select Second Seed"
+msgstr "ビューのシードリスト"
+
+msgid "Garden Planner"
+msgstr "ガーデン プランナー"
+
+msgid "Search Seeds"
+msgstr "検索の種子"
+
+msgid "Seed List"
+msgstr "種一覧"
+
+msgid "No confirmed crosses"
+msgstr "確認された十字"
+
+msgid "OPTIMAL PLANTING"
+msgstr "最適な植栽"
+
+msgid "Seed Planted"
+msgstr "植えられた種子"
+
+msgid "Crossed Seed"
+msgstr "交差の種子"
+
+msgid "Plant Clockwise from Top-Left"
+msgstr "左上から時計回りに植物します。"

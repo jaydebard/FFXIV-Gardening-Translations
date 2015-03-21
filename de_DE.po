@@ -1,0 +1,387 @@
+# #### SITE RELATED TRANSLATIONS ######
+msgid "FFXIV Gardening"
+msgstr "FFXIV Gartenbau"
+
+msgid "Language"
+msgstr "Sprache"
+
+msgid "Site Related"
+msgstr "Website mit Bezug"
+
+msgid "FFXIV Related"
+msgstr "FFXIV mit Bezug"
+
+msgid "Minion"
+msgstr "Schergen"
+
+msgid "Hunt Billmaster"
+msgstr "Jagdmeister"
+
+msgid "English"
+msgstr "Englisch"
+
+msgid "French"
+msgstr "Französisch"
+
+msgid "German"
+msgstr "Deutsch"
+
+msgid "Japanese"
+msgstr "Japanisch"
+
+msgid "SEEDS"
+msgstr "SAATGUT"
+
+msgid "RESOURCES"
+msgstr "RESSOURCEN"
+
+msgid "LINKS"
+msgstr "LINKS"
+
+msgid "GARDEN PLANNER"
+msgstr "GARTEN PLANER"
+
+msgid "SUBMIT CROSS"
+msgstr "CROSS EINREICHEN"
+
+msgid "View All"
+msgstr "Alle Anzeigen"
+
+msgid "Fruit"
+msgstr "Frucht"
+
+msgid "Vegetable"
+msgstr "Gemüse"
+
+msgid "Herb & Nut"
+msgstr "Kraut & Nut"
+
+msgid "Chocobo Food"
+msgstr "Chocobo-Essen"
+
+msgid "Gardening Minions"
+msgstr "Gartenbau-Schergen"
+
+msgid "Guide to Gardening"
+msgstr "Leitfaden für die Gartenarbeit"
+
+msgid "Site Documentation"
+msgstr "Website-Dokumentation"
+
+msgid "Topsoil Gathering"
+msgstr "Mutterboden Gathering"
+
+msgid "Recently Added Crosses"
+msgstr "Kürzlich hinzugefügte Kreuze"
+
+msgid "Update Archive"
+msgstr "Update-Archiv"
+
+msgid "Contact"
+msgstr "Kontakt"
+
+msgid "Intercross Spreadsheet"
+msgstr "Spielfeld Tabellenkalkulation"
+
+msgid "Facebook Page"
+msgstr "Facebook Page"
+
+msgid "Revenant FC"
+msgstr "Revenant FC"
+
+msgid "XIVDB (Database)"
+msgstr "XIVDB (Datenbank)"
+
+msgid "Chocobo Color Calculator"
+msgstr "Chocobo-Color Calculator"
+
+msgid "Jumbo Gardening Thread"
+msgstr "Jumbo Garten-Thread"
+
+msgid "VIEW SEED LIST"
+msgstr "SEED-ANZEIGELISTE"
+
+msgid "Back to Top"
+msgstr "Nach oben"
+
+msgid "View Update Archive"
+msgstr "Update-Archiv Ansehen"
+
+msgid "Welcome to FFXIV Gardening"
+msgstr "Willkommen bei FFXIV Gartenbau"
+
+msgid "The FFXIV Gardening Database is a collection of everything related to gardening in Final Fantasy XIV: A Realm Reborn. It was created to organize and visualize the results obtained from crossbreeding."
+msgstr "Die FFXIV-Gartenarbeit-Datenbank ist eine Sammlung von allem, was mit Gartenarbeit in Final Fantasy XIV: A Reich wiedergeboren. Es wurde geschaffen, um zu organisieren und visualisieren Sie die Ergebnisse aus der Kreuzung."
+
+msgid "Seed Name"
+msgstr "Samen Namen"
+
+msgid "Seed Type"
+msgstr "Samentyp"
+
+msgid "iLvl"
+msgstr "iLvl"
+
+msgid "Grow Time"
+msgstr "Dauer"
+
+msgid "Harvest Location"
+msgstr "Ernte-Lage"
+
+msgid "Node Level"
+msgstr "Knotenebene"
+
+msgid "Crossbreed Only"
+msgstr "Kreuzung Nur"
+
+msgid "Deluxe Fruit"
+msgstr "Deluxe Frucht"
+
+msgid "Deluxe Vegetable"
+msgstr "Deluxe Gemüse"
+
+msgid "Deluxe Herb & Nut"
+msgstr "Deluxe Kraut & Nut"
+
+msgid "TWO-SEED CROSS CHECK"
+msgstr "ZWEI-SAAT GEGENPROBE"
+
+msgid "Select two seeds from the drop down menus below. You will be shown all possible confirmed crosses from the selected seeds."
+msgstr "Wählen Sie zwei Samen aus der Drop-down-Menüs unten. Sie werden angezeigt, alle möglichen bestätigt aus den ausgewählten Samen durchquert."
+
+msgid "To the right of each cross is an option to show a table visualizing the optimal way to plant each seed to obtain the selected cross."
+msgstr "Rechts neben jedem Kreuz ist eine Option, um eine Tabelle, die Visualisierung des optimalen Weg, um jedes Saatgut erhalten Sie die ausgewählten Kreuz Pflanzen zeigen."
+
+msgid "MULTIPLE-SEED CROSS CHECK"
+msgstr "MEHRSAMEN-SAAT GEGENPROBE"
+
+msgid "Select multiple seeds from the left column that you would like to find crosses for and move them to the right column. You will be shown all possible cross combinations from the selected seeds."
+msgstr "Wählen Sie mehrere Samen aus der linken Spalte, die Sie möchten finden Kreuze für und in der rechten Spalte zu verschieben. Sie werden alle möglichen Kreuz Kombinationen aus den ausgewählten Samen vorgeführt."
+
+msgid "You can ctrl+click to select multiple seeds and use the arrows to move or you can double click to move individually."
+msgstr "Sie können STRG + Klicken Sie auf wählen mehrere Samen, und verwenden Sie die Pfeile um zu bewegen oder Sie können Doppelklick einzeln verschieben."
+
+msgid "Plant in clockwise order alternating seeds"
+msgstr "Im Uhrzeigersinn abwechselnd Samen Pflanzen"
+
+msgid "Use Thanalan Soil for higher cross chance"
+msgstr "Verwenden Sie Thanalan Boden für höhere Kreuzung Möglichkeit"
+
+msgid "Use Shroud Soil for higher yield quantity"
+msgstr "Verwenden Sie Finsterwald Boden für höhere Ausbeute Menge verwenden"
+
+msgid "Use La Noscean soil for higher quality yield"
+msgstr "Verwenden Sie La Noscea Boden für höhere Qualität-Ausbeute"
+
+msgid "Tend (water) once every Earth Day"
+msgstr "Neigen Sie (Wasser) einmal täglich Erde"
+
+msgid "Fertilize once every Earth Day hour"
+msgstr "Düngen Sie einmal stündlich von Earth Day"
+
+msgid "Grade"
+msgstr "Grad"
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "Increases"
+msgstr "Erhöht"
+
+msgid "Mining Location"
+msgstr "Bergbau-Standort"
+
+msgid "Details"
+msgstr "Details"
+
+msgid "Quality"
+msgstr "Qualität"
+
+msgid "Yield"
+msgstr "Ausbeute"
+
+msgid "Cross Chance"
+msgstr "Chance zu überqueren"
+
+msgid "Hidden / Rare Item"
+msgstr "Versteckte / Seltene Element"
+
+msgid "1-Star Unspoiled Node"
+msgstr "1-Sterne Unberührte Knoten"
+
+msgid "Slot"
+msgstr "Sendezeit"
+
+msgid "La Noscean"
+msgstr "La Noscea"
+
+msgid "Shroud"
+msgstr "Finsterwald"
+
+msgid "Thanalan"
+msgstr "Thanalan"
+
+msgid "Lower La Noscea"
+msgstr "Unteres La Noscea"
+
+msgid "Middle La Noscea"
+msgstr "Zentrales La Noscea"
+
+msgid "East Shroud"
+msgstr "Ostwald"
+
+msgid "Eastern Thanalan"
+msgstr "Östliches Thanalan"
+
+msgid "Western Thanalan"
+msgstr "Westliches Thanalan"
+
+msgid "Eastern La Noscea"
+msgstr "Östliches La Noscea"
+
+msgid "Western La Noscea"
+msgstr "Westliches La Noscea"
+
+msgid "Upper La Noscea"
+msgstr "Oberes La Noscea"
+
+msgid "South Shroud"
+msgstr "Südwald"
+
+msgid "North Shroud"
+msgstr "Nordwald"
+
+msgid "Central Shroud"
+msgstr "Tiefer Wald"
+
+msgid "Central Thanalan"
+msgstr "Zentrales Thanalan"
+
+msgid "Coerthas Central Highlands"
+msgstr "Zentrales Hochland von Coerthas"
+
+msgid "Material Supplier (Housing Disctrict)"
+msgstr "Materiallieferant"
+
+msgid "ALL SEEDS"
+msgstr "ALLE SAMEN"
+
+msgid "FRUIT SEEDS"
+msgstr "FRUCHTSAMEN"
+
+msgid "VEGETABLE SEEDS"
+msgstr "GEMÜSESAMEN"
+
+msgid "HERB & NUT SEEDS"
+msgstr "KRAUT & NUSS SAMEN"
+
+msgid "CHOCOBO FOOD"
+msgstr "CHOCOBO-ESSEN"
+
+msgid "MINION SEEDS"
+msgstr "GARTENBAU-SHERGEN"
+
+msgid "SEED DETAILS"
+msgstr "SAATGUT-DETAILS"
+
+msgid "CONFIRMED CROSSES"
+msgstr "BESTÄTIGTE KREUZE"
+
+msgid "USED IN OTHER CROSSES"
+msgstr "VERWENDET IN ANDERE KREUZE"
+
+msgid "GUIDE TO GARDENING"
+msgstr "LEITFADEN FÜR DIE GARTENARBEIT"
+
+msgid "DOCUMENTATION"
+msgstr "WEBSITE-DOKUMENTATION"
+
+msgid "TOPSOIL GATHERING"
+msgstr "MUTTERBODEN GATHERING"
+
+msgid "RECENTLY ADDED CROSSES"
+msgstr "KÜRZLICH HINZUGEFÜGTE KREUZE"
+
+msgid "UPDATE ARCHIVE"
+msgstr "UPDATE-ARCHIV"
+
+msgid "CONTACT INFO"
+msgstr "KONTAKT INFO"
+
+msgid "SEARCH RESULTS"
+msgstr "SUCHERGEBNIS"
+
+msgid "Search Results"
+msgstr "Suchergebnis"
+
+msgid "Item Level"
+msgstr "Artikel Etage"
+
+msgid "Days"
+msgstr "Tage"
+
+msgid "Harvested Plant"
+msgstr "Geernteten Pflanzen"
+
+msgid "Adjacent Plant"
+msgstr "Angrenzend Pflanzen"
+
+msgid "Alternate Cross"
+msgstr "Andere Kreuze"
+
+msgid "Efficiency"
+msgstr "Leistungsfähigkeit"
+
+msgid "BEST PRACTICES"
+msgstr "BESTE PRAKTIK"
+
+msgid "NEW & UPDATED CROSSES"
+msgstr "NEUE & AKTUALISIERT KREUZE"
+
+msgid "MOST RECENT"
+msgstr "LETZTEN"
+
+msgid "SUBMIT"
+msgstr "SENDEN"
+
+msgid "ADD"
+msgstr "HINZUFÜGEN"
+
+msgid "REMOVE"
+msgstr "ENTFERNEN"
+
+msgid "Seed Details"
+msgstr "Saatgut-Details"
+
+msgid "Eorzea Time"
+msgstr "Eorzeas Zeit"
+
+msgid "Select First Seed"
+msgstr "Wählen Sie Zuerst Samen"
+
+msgid "Select Second Seed"
+msgstr "Wählen Zweiten Saatgut"
+
+msgid "Garden Planner"
+msgstr "Garten Planer"
+
+msgid "Search Seeds"
+msgstr "Suche Samen"
+
+msgid "Seed List"
+msgstr "Saatgut-Liste"
+
+msgid "No confirmed crosses"
+msgstr "Keine Bestätigten Kreuze"
+
+msgid "OPTIMAL PLANTING"
+msgstr "OPTIMALE BEPFLANZUNG"
+
+msgid "Seed Planted"
+msgstr "Samen Gepflanzt"
+
+msgid "Crossed Seed"
+msgstr "Gekreuzte Samen"
+
+msgid "Plant Clockwise from Top-Left"
+msgstr "Pflanzen im Uhrzeigersinn von oben links"
